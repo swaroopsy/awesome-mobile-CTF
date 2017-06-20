@@ -124,7 +124,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ### iOS
 * [ExploitMe Mobile iPhone Labs](http://securitycompass.github.io/iPhoneLabs/)
-* [Owasp: iGoat](https://github.com/hankbao/owasp-igoat)
+* [Owasp: iGoat](https://github.com/OWASP/igoat)
 * [Damn Vulnerable iOS App (DVIA)](http://damnvulnerableiosapp.com/)
 
 ## Mobile security resources
